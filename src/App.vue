@@ -150,7 +150,7 @@ export default {
         "headerTitle": "DOJ/HR",
         "headerSubtitle": "Liberator Team",
         "subheaderTitle": "Critical Assistance Mission",
-        "subheaderSubtitle": "CAM",
+        "subheaderSubtitle": "",
       },
       "options":{
         "eventsMarkdownPerMission": true
