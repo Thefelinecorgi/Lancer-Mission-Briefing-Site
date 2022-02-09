@@ -147,10 +147,10 @@ export default {
         "system": "Placeholder System",
         "gate": "Placeholder Gate",
         "ring": "Placeholder Ring",
-        "headerTitle": "Union (Placeholder)",
-        "headerSubtitle": "Liberator Team (Placeholder)",
-        "subheaderTitle": "Critical Assistance Mission (Placeholder)",
-        "subheaderSubtitle": "CAM (Placeholder)",
+        "headerTitle": "DOJ/HR",
+        "headerSubtitle": "Liberator Team",
+        "subheaderTitle": "Critical Assistance Mission",
+        "subheaderSubtitle": "CAM",
       },
       "options":{
         "eventsMarkdownPerMission": true
