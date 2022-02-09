@@ -135,7 +135,7 @@ export default {
         {
           "callsign": "Placeholder Callsign 5",
           "alias": "Placeholder Alias",
-          "code": "Placeholder Comp/Con Vault Code "First half of code///NDL-C-DEEP-STATION//second half of code",
+          "code": "Placeholder Comp/Con Vault Code First half of code///NDL-C-DEEP-STATION//second half of code",
           "corpro": "Placeholder corpro liscense",
           "frame": "Placeholder Mech Frame",
           "mech": "Placeholder Mech Name"
